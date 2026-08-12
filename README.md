@@ -18,6 +18,9 @@ The system uses a cryptographically secured append-only audit record mechanism t
 
 ---
 
+<img width="1629" height="682" alt="Screenshot From 2026-06-17 00-18-33" src="https://github.com/user-attachments/assets/42581c74-addf-4a4e-91b8-fa51e659a0a6" />
+
+
 ## ✨ Features
 
 ### Public Registry
